@@ -23,3 +23,12 @@ css file
 tailwind
 some node modules
 mp4
+
+
+# next for the channel
+
+- way to finance (saw)
+- stario and fasthtml
+- more projects (size, pwd, ...)
+- more twitch and a twitch site
+- the big rewrite
